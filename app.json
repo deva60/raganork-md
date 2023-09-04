@@ -1,6 +1,6 @@
 {
-	"name": "Deploy",
-	"description": "Wa Bot.",
+	"name": "Bbe—🤍",
+	"description": "WhatsApp Bot.",
 	"keywords": [
 		"whatsapp",
 		"bot"
@@ -20,7 +20,7 @@
         },
         "READ_MESSAGES": {
             "description": "Bot will read all messages. Can be also false",
-            "required": true,
+            "required": false,
             "value":"false"
         },
         "READ_COMMAND": {
@@ -49,7 +49,7 @@
             "value":"off"
         },
         "BOT_NAME": {
-            "description": "Name of AI chatbot",
+            "description": "Bbe—🤍",
             "required": true,
             "value":"Raganork"
         },
